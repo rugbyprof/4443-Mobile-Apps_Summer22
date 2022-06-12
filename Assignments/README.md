@@ -6,6 +6,6 @@
 | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/A01">A01</a>~ | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/A01"> Assignment 1 </a>~ | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/A01"> Getting Setup</a>~ | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/A01"> 06-06-2022 (Monday @ 12:30 p.m.)</a>~ | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/A01">2022-06-06 00:00:00</a>~ | ---- |
 | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/A03">A03</a>~ | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/A03"> Assignment 3 </a>~ | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/A03"> Dev Environment</a>~ | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/A03"> 06-06-2022 (Monday @ 12:30 p.m.)</a>~ | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/A03">2022-06-06 00:00:00</a>~ | ---- |
 
-<sup>Last Updated: 2022-06-12 (Sun @ 15:41)</sup> 
+<sup>Last Updated: 2022-06-12 (Sun @ 15:42)</sup> 
 
 <sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup> 
