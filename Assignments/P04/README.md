@@ -1,6 +1,6 @@
 ## Assignment 4 - Quizzler w/ FastApi
 
-#### Due: 06-13-2022 (Monday @ 12:30 p.m.)
+#### Due: 06-15-2022 (Wednesday @ 12:30 p.m.)
 
 
 ## Overview

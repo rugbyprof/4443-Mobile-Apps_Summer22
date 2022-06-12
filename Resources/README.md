@@ -7,6 +7,6 @@
 | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/03-Python_Tutorial">03-Python_Tutorial</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/03-Python_Tutorial">None</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/03-Python_Tutorial">None</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/03-Python_Tutorial">N/A</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/03-Python_Tutorial">None</a>*** |  |
 | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/04-Dicee_Flutter_Completed">04-Dicee_Flutter_Completed</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/04-Dicee_Flutter_Completed">None</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/04-Dicee_Flutter_Completed">None</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/04-Dicee_Flutter_Completed"> Dicee 🎲</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/04-Dicee_Flutter_Completed">None</a>*** |  |
 
-<sup>Last Updated: 2022-06-12 (Sun @ 16:04)</sup> 
+<sup>Last Updated: 2022-06-12 (Sun @ 16:57)</sup> 
 
 <sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup> 
