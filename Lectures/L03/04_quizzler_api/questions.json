@@ -1,54 +1,497 @@
 [
-    {
-        "question": "Some cats are actually allergic to humans",
-        "answer": 1
-    },
-    {
-        "question": "You can lead a cow down stairs but not up stairs.",
-        "answer": 0
-    },
-    {
-        "question": "Approximately one quarter of human bones are in the feet.",
-        "answer": 1
-    },
-    {
-        "question": "A slug's blood is green.",
-        "answer": 1
-    },
-    {
-        "question": "Buzz Aldrin's mother's maiden name was 'Moon'.",
-        "answer": 1
-    },
-    {
-        "question": "It is illegal to pee in the Ocean in Portugal.",
-        "answer": 1
-    },
-    {
-        "question": "No piece of square dry paper can be folded in half more than 7 times.",
-        "answer": 0
-    },
-    {
-        "question": "In London, UK, if you happen to die in the House of Parliament, you are technically entitled to a state funeral, because the building is considered too sacred a place.",
-        "answer": 1
-    },
-    {
-        "question": "The loudest sound produced by any animal is 188 decibels. That animal is the African Elephant.",
-        "answer": 0
-    },
-    {
-        "question": "The total surface area of two human lungs is approximately 70 square metres.",
-        "answer": 1
-    },
-    {
-        "question": "Google was originally called \"Backrub\".",
-        "answer": 1
-    },
-    {
-        "question": "Chocolate affects a dog's heart and nervous system; a few ounces are enough to kill a small dog.",
-        "answer": 1
-    },
-    {
-        "question": "In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.",
-        "answer": 1
-    }
+  {
+    "answer": 0,
+    "explanation": "Seahorses don't have stomachs, just intestines",
+    "question": "Seahorses have stomachs for the absorption of nutrients from food."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "The letter H is between letters G and J on a keyboard"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Camels have three sets of eyelashes"
+  },
+  {
+    "answer": 1,
+    "explanation": "100,000 (five zeros)",
+    "question": "There are five zeros in one hundred thousand"
+  },
+  {
+    "answer": 0,
+    "explanation": "Stars and stripes",
+    "question": "There are stars and zigzags on the flag of America"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "If you add the two numbers on the opposite sides of dice together, the answer is always 7"
+  },
+  {
+    "answer": 0,
+    "explanation": "The Big Apple",
+    "question": "New York is nicknamed 'The Big Orange'"
+  },
+  {
+    "answer": 1,
+    "explanation": "After Pope Formosus died in A.D. 896, his successor had him disinterred, dressed in papal robes and set up to face",
+    "question": "The human body is full of friendly bacteria, with organisms on our skin and in our guts helping keep our bodies humming."
+  },
+  {
+    "answer": 0,
+    "explanation": "Scallops have as many as 100 simple eyes. They're frequently blue.",
+    "question": "Scallops don't have good vision"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "The dinosaur with the longest neck for its body size is Mamenchisaurus hochuanensis, a sauropod dino that lived in what is now China."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "The deepest part of the ocean is about 36,200 feet down (11,030 m) which is more like 25 Empire State Buildings"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Your hand has a built in snuff box"
+  },
+  {
+    "answer": 0,
+    "explanation": "1 % only",
+    "question": "The moon is just 50 percent of the mass of Earth."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Toilet paper is a relatively recent invention, but the ancients still had to wipe. Roman philosopher Seneca, who lived from 4 B.C. to A.D. 65, recorded the use of a sponge attached to a stick that did the job."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Nearly three percent of the ice in Antarctic glaciers is penguin urine."
+  },
+  {
+    "answer": 0,
+    "explanation": "all apes laugh when they are tickled.",
+    "question": "Apes cant laugh."
+  },
+  {
+    "answer": 0,
+    "explanation": "upto 3 years",
+    "question": "A snail can sleep for three months."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Your nose and sinuses produce almost one liter of mucus a day (which you swallow.)"
+  },
+  {
+    "answer": 0,
+    "explanation": "80% of what you're tasting is determined by what you're smelling.",
+    "question": "Tasting is never determined by what you're smelling"
+  },
+  {
+    "answer": 0,
+    "explanation": "terminal hair",
+    "question": "The hair on our heads is vellus hair, along with facial and chest hair in men and pubic and armpit hair in both genders."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "It takes a sloth two weeks to digest its food."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "In japan, instead of a \"man in the moon,\" people see a \"rabbit in the moon.\""
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "The quills on African porcupines are as long as three pencils."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "A cow gives nearly 200,000 glasses of milk in a lifetime."
+  },
+  {
+    "answer": 0,
+    "explanation": "you don't sneeze in your sleep because the nerves that trigger sneezing are also sleeping.",
+    "question": "You can sneeze during sleep"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "The bent joint in the legs of the flamingo is its ankles."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "There is a world championship for throwing mobile phones."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "During the Apollo 17 mission, Harrison Schmitt suffered from a severe allergic reaction to the dust found on the surface of the moon."
+  },
+  {
+    "answer": 0,
+    "explanation": "watching horror movies increase a clotting protein in the bloodstream.",
+    "question": "Watching horror movies has no reaction to body"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Eleanor Roosevelt once snuck out of a white house event to go on a joyride in a plane."
+  },
+  {
+    "answer": 0,
+    "explanation": "rectangular",
+    "question": "The pupil of a goat is diagonal."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "A double rainbow is a mirror image of the first rainbow."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Human facial hair grows faster than any other hair on the body."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Human eyes contain a small blind spot where the optic nerve passes through the retina."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Mucus contains chemicals that keep you healthy. That's why when you're sick, mucus production nearly doubles."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Green tea contains antiseptic properties, which can help to keep your gums healthy."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "The prevailing theory in Harvey's time was that the lungs, not the heart, moved blood through the body"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "At the height of his popularity, Charlie Chaplin entered a Charlie Chaplin look-a-like competition in San Francisco. He came in 20th place."
+  },
+  {
+    "answer": 0,
+    "explanation": "always turn left",
+    "question": "Bats always turn right when leaving a cave."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "A group of jellyfish is not a herd, or a school, or a flock; it's called a smack."
+  },
+  {
+    "answer": 0,
+    "explanation": "every 30 days",
+    "question": "You get a new top layer of skin (epidermis) every 7 days."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "It is possible to hypnotize a frog by placing it on its back and gently stroking its stomach."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "A rhinoceros' horn is made of hair."
+  },
+  {
+    "answer": 0,
+    "explanation": "four noses",
+    "question": "Slugs have six noses"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "The heart of a shrimp is located in its head."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Around 50 percent of orangutans have fractured bones, due to falling out of trees on a regular basis."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Frogs cannot vomit. If one absolutely has to, then it will vomit its entire stomach."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Dead skin comprises about a billion tons of dust in the earth's atmosphere."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "New Jersey has the highest concentration of shopping malls."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Humans have 12 million olfactory (smell) receptor cells, while rabbits have 100 million and bloodhounds have four billion."
+  },
+  {
+    "answer": 0,
+    "explanation": "Invisibility Cloak",
+    "question": "Broome could make Harry Potter invisible for a day"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "On average, we lose 50 to 100 strands of hair a day from the scalp."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Only a few mammals are regarded as being pretty much hairless, these include elephants, rhinoceroses, hippopotamuses, walruses, pigs, whales and naked mole rats."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Bananas grow upside down"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Queen Elizabeth the 1st was the daughter of King Henry the 8th of England"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Vitamin C is also known by the chemical name of Ascorbic Acid"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Camels have three sets of eyelids"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Australia the largest producer of wool in the world"
+  },
+  {
+    "answer": 0,
+    "explanation": null,
+    "question": "China the largest country in the world"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Zeus is known as the king of Gods"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "A slug has four noses in total"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "There is no railway system in Iceland"
+  },
+  {
+    "answer": 0,
+    "explanation": null,
+    "question": "Humans have 4 senses"
+  },
+  {
+    "answer": 0,
+    "explanation": null,
+    "question": "Archimedes is considered as the father of History"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "A group of crows is called a murder'"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "The full form of CVD is cardiovascular disease"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "An increase in RBCs has nothing to do with the onset of anaemia"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Robert Brown discovered the cell nucleus"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Stapes is the smallest bone in the human body"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Canada has the most lakes in the world"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Bolivia is the world's flattest country"
+  },
+  {
+    "answer": 0,
+    "explanation": "in Europe",
+    "question": "The world's oldest country San Marino is in Asia"
+  },
+  {
+    "answer": 1,
+    "explanation": "French Guiana",
+    "question": "Brazil and France share a 673-kilometre border"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Cheating on an exam in Bangladesh is punishable by imprisonment"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "It snows in the Sahara Desert"
+  },
+  {
+    "answer": 1,
+    "explanation": "Cuba and North Korea",
+    "question": "There are only two countries in the world where Coca Cola does not exist"
+  },
+  {
+    "answer": 1,
+    "explanation": "Sudan, has 255 pyramids",
+    "question": "Sudan has the most pyramids in the world"
+  },
+  {
+    "answer": 1,
+    "explanation": "the Ca`o Cristales, also known as the 'River of Five Colours'",
+    "question": "Colombia's brightest rainbow is in its river"
+  },
+  {
+    "answer": 1,
+    "explanation": "just 6,000 years ago",
+    "question": "The Sahara Desert used to be a tropical rainforest in the past"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Macchu Pichu is an earthquake-proof city"
+  },
+  {
+    "answer": 1,
+    "explanation": "on ice",
+    "question": "You could walk from Russia to Alaska"
+  },
+  {
+    "answer": 0,
+    "explanation": "China has only one timezone",
+    "question": "China has two timezones"
+  },
+  {
+    "answer": 1,
+    "explanation": "San Franciscans reported hearing eerie sounds from several kilometres away!",
+    "question": "San Fransisco's Golden Gate Bridge 'speaks'"
+  },
+  {
+    "answer": 0,
+    "explanation": "Between Russia and Alaska lies the Bering Strait",
+    "question": "Between China and Alaska lies the Bering Strait."
+  },
+  {
+    "answer": 0,
+    "explanation": "in Sri Lanka",
+    "question": "Yala National Park is located in Kenya and famous for safari"
+  },
+  {
+    "answer": 0,
+    "explanation": "Thailand has a festival to appreciate their monkeys",
+    "question": "Taiwan has a festival to appreciate their monkeys"
+  },
+  {
+    "answer": 0,
+    "explanation": "You're always seven years behind in Ethiopia",
+    "question": "You're always seven years behind in Thailand"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "France is the most visited country with 89 million annual tourists"
+  },
+  {
+    "answer": 0,
+    "explanation": "Sai Yok National Park in Thailand has the world's tiniest bats",
+    "question": "Sai Yok National Park in Japan has the world's tiniest bats"
+  },
+  {
+    "answer": 0,
+    "explanation": "in Sweden, you can order Macs on skis",
+    "question": "In Rwanda, you can order Macs on skis"
+  },
+  {
+    "answer": 1,
+    "explanation": "within Giethoorn Village",
+    "question": "There's a village in the Netherlands with no streets, only canals"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "There's a rock in Australia that's bigger than Ayer's Rock Uluru"
+  },
+  {
+    "answer": 0,
+    "explanation": "New Zealand has the steepest residential area in the world",
+    "question": "New Carolina has the steepest residential area in the world"
+  },
+  {
+    "answer": 0,
+    "explanation": "In Hawaii, you can experience sunny beaches and snowy mountains on the same island",
+    "question": "In Texas, you can experience sunny beaches and snowy mountains on the same island"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "The quills on porcupines in Africa are as long as 3 pencils together."
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "Throwing phones is a world championship phenomenon"
+  },
+  {
+    "answer": 1,
+    "explanation": null,
+    "question": "There is a blind spot present in human eyes, also the location where the optic nerve mostly glides through the retina"
+  },
+  {
+    "answer": 0,
+    "explanation": null,
+    "question": "The outer region of the nose is called the pinna"
+  },
+  {
+    "answer": 0,
+    "explanation": null,
+    "question": "Anything that has a certain mass and occupies space is called an atom"
+  }
 ]

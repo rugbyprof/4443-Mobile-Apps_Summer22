@@ -1,0 +1,497 @@
+[
+  {
+    "answer": "False",
+    "explanation": "Seahorses don't have stomachs, just intestines",
+    "question": "Seahorses have stomachs for the absorption of nutrients from food."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "The letter H is between letters G and J on a keyboard"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Camels have three sets of eyelashes"
+  },
+  {
+    "answer": "True",
+    "explanation": "100,000 (five zeros)",
+    "question": "There are five zeros in one hundred thousand"
+  },
+  {
+    "answer": "False",
+    "explanation": "Stars and stripes",
+    "question": "There are stars and zigzags on the flag of America"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "If you add the two numbers on the opposite sides of dice together, the answer is always 7"
+  },
+  {
+    "answer": "False",
+    "explanation": "The Big Apple",
+    "question": "New York is nicknamed 'The Big Orange'"
+  },
+  {
+    "answer": "True",
+    "explanation": "After Pope Formosus died in A.D. 896, his successor had him disinterred, dressed in papal robes and set up to face",
+    "question": "The human body is full of friendly bacteria, with organisms on our skin and in our guts helping keep our bodies humming."
+  },
+  {
+    "answer": "False",
+    "explanation": "Scallops have as many as 100 simple eyes. They're frequently blue.",
+    "question": "Scallops don't have good vision"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "The dinosaur with the longest neck for its body size is Mamenchisaurus hochuanensis, a sauropod dino that lived in what is now China."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "The deepest part of the ocean is about 36,200 feet down (11,030 m) which is more like 25 Empire State Buildings"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Your hand has a built in snuff box"
+  },
+  {
+    "answer": "False",
+    "explanation": "1 % only",
+    "question": "The moon is just 50 percent of the mass of Earth."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Toilet paper is a relatively recent invention, but the ancients still had to wipe. Roman philosopher Seneca, who lived from 4 B.C. to A.D. 65, recorded the use of a sponge attached to a stick that did the job."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Nearly three percent of the ice in Antarctic glaciers is penguin urine."
+  },
+  {
+    "answer": "False",
+    "explanation": "all apes laugh when they are tickled.",
+    "question": "Apes cant laugh."
+  },
+  {
+    "answer": "False",
+    "explanation": "upto 3 years",
+    "question": "A snail can sleep for three months."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Your nose and sinuses produce almost one liter of mucus a day (which you swallow.)"
+  },
+  {
+    "answer": "False",
+    "explanation": "80% of what you're tasting is determined by what you're smelling.",
+    "question": "Tasting is never determined by what you're smelling"
+  },
+  {
+    "answer": "False",
+    "explanation": "terminal hair",
+    "question": "The hair on our heads is vellus hair, along with facial and chest hair in men and pubic and armpit hair in both genders."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "It takes a sloth two weeks to digest its food."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "In japan, instead of a \"man in the moon,\" people see a \"rabbit in the moon.\""
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "The quills on African porcupines are as long as three pencils."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "A cow gives nearly 200,000 glasses of milk in a lifetime."
+  },
+  {
+    "answer": "False",
+    "explanation": "you don't sneeze in your sleep because the nerves that trigger sneezing are also sleeping.",
+    "question": "You can sneeze during sleep"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "The bent joint in the legs of the flamingo is its ankles."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "There is a world championship for throwing mobile phones."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "During the Apollo 17 mission, Harrison Schmitt suffered from a severe allergic reaction to the dust found on the surface of the moon."
+  },
+  {
+    "answer": "False",
+    "explanation": "watching horror movies increase a clotting protein in the bloodstream.",
+    "question": "Watching horror movies has no reaction to body"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Eleanor Roosevelt once snuck out of a white house event to go on a joyride in a plane."
+  },
+  {
+    "answer": "False",
+    "explanation": "rectangular",
+    "question": "The pupil of a goat is diagonal."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "A double rainbow is a mirror image of the first rainbow."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Human facial hair grows faster than any other hair on the body."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Human eyes contain a small blind spot where the optic nerve passes through the retina."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Mucus contains chemicals that keep you healthy. That's why when you're sick, mucus production nearly doubles."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Green tea contains antiseptic properties, which can help to keep your gums healthy."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "The prevailing theory in Harvey's time was that the lungs, not the heart, moved blood through the body"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "At the height of his popularity, Charlie Chaplin entered a Charlie Chaplin look-a-like competition in San Francisco. He came in 20th place."
+  },
+  {
+    "answer": "False",
+    "explanation": "always turn left",
+    "question": "Bats always turn right when leaving a cave."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "A group of jellyfish is not a herd, or a school, or a flock; it's called a smack."
+  },
+  {
+    "answer": "False",
+    "explanation": "every 30 days",
+    "question": "You get a new top layer of skin (epidermis) every 7 days."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "It is possible to hypnotize a frog by placing it on its back and gently stroking its stomach."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "A rhinoceros' horn is made of hair."
+  },
+  {
+    "answer": "False",
+    "explanation": "four noses",
+    "question": "Slugs have six noses"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "The heart of a shrimp is located in its head."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Around 50 percent of orangutans have fractured bones, due to falling out of trees on a regular basis."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Frogs cannot vomit. If one absolutely has to, then it will vomit its entire stomach."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Dead skin comprises about a billion tons of dust in the earth's atmosphere."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "New Jersey has the highest concentration of shopping malls."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Humans have 12 million olfactory (smell) receptor cells, while rabbits have 100 million and bloodhounds have four billion."
+  },
+  {
+    "answer": "False",
+    "explanation": "Invisibility Cloak",
+    "question": "Broome could make Harry Potter invisible for a day"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "On average, we lose 50 to 100 strands of hair a day from the scalp."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Only a few mammals are regarded as being pretty much hairless, these include elephants, rhinoceroses, hippopotamuses, walruses, pigs, whales and naked mole rats."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Bananas grow upside down"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Queen Elizabeth the 1st was the daughter of King Henry the 8th of England"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Vitamin C is also known by the chemical name of Ascorbic Acid"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Camels have three sets of eyelids"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Australia the largest producer of wool in the world"
+  },
+  {
+    "answer": "False",
+    "explanation": null,
+    "question": "China the largest country in the world"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Zeus is known as the king of Gods"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "A slug has four noses in total"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "There is no railway system in Iceland"
+  },
+  {
+    "answer": "False",
+    "explanation": null,
+    "question": "Humans have 4 senses"
+  },
+  {
+    "answer": "False",
+    "explanation": null,
+    "question": "Archimedes is considered as the father of History"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "A group of crows is called a murder'"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "The full form of CVD is cardiovascular disease"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "An increase in RBCs has nothing to do with the onset of anaemia"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Robert Brown discovered the cell nucleus"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Stapes is the smallest bone in the human body"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Canada has the most lakes in the world"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Bolivia is the world's flattest country"
+  },
+  {
+    "answer": "False",
+    "explanation": "in Europe",
+    "question": "The world's oldest country San Marino is in Asia"
+  },
+  {
+    "answer": "True",
+    "explanation": "French Guiana",
+    "question": "Brazil and France share a 673-kilometre border"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Cheating on an exam in Bangladesh is punishable by imprisonment"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "It snows in the Sahara Desert"
+  },
+  {
+    "answer": "True",
+    "explanation": "Cuba and North Korea",
+    "question": "There are only two countries in the world where Coca Cola does not exist"
+  },
+  {
+    "answer": "True",
+    "explanation": "Sudan, has 255 pyramids",
+    "question": "Sudan has the most pyramids in the world"
+  },
+  {
+    "answer": "True",
+    "explanation": "the Ca`o Cristales, also known as the 'River of Five Colours'",
+    "question": "Colombia's brightest rainbow is in its river"
+  },
+  {
+    "answer": "True",
+    "explanation": "just 6,000 years ago",
+    "question": "The Sahara Desert used to be a tropical rainforest in the past"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Macchu Pichu is an earthquake-proof city"
+  },
+  {
+    "answer": "True",
+    "explanation": "on ice",
+    "question": "You could walk from Russia to Alaska"
+  },
+  {
+    "answer": "False",
+    "explanation": "China has only one timezone",
+    "question": "China has two timezones"
+  },
+  {
+    "answer": "True",
+    "explanation": "San Franciscans reported hearing eerie sounds from several kilometres away!",
+    "question": "San Fransisco's Golden Gate Bridge 'speaks'"
+  },
+  {
+    "answer": "False",
+    "explanation": "Between Russia and Alaska lies the Bering Strait",
+    "question": "Between China and Alaska lies the Bering Strait."
+  },
+  {
+    "answer": "False",
+    "explanation": "in Sri Lanka",
+    "question": "Yala National Park is located in Kenya and famous for safari"
+  },
+  {
+    "answer": "False",
+    "explanation": "Thailand has a festival to appreciate their monkeys",
+    "question": "Taiwan has a festival to appreciate their monkeys"
+  },
+  {
+    "answer": "False",
+    "explanation": "You're always seven years behind in Ethiopia",
+    "question": "You're always seven years behind in Thailand"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "France is the most visited country with 89 million annual tourists"
+  },
+  {
+    "answer": "False",
+    "explanation": "Sai Yok National Park in Thailand has the world's tiniest bats",
+    "question": "Sai Yok National Park in Japan has the world's tiniest bats"
+  },
+  {
+    "answer": "False",
+    "explanation": "in Sweden, you can order Macs on skis",
+    "question": "In Rwanda, you can order Macs on skis"
+  },
+  {
+    "answer": "True",
+    "explanation": "within Giethoorn Village",
+    "question": "There's a village in the Netherlands with no streets, only canals"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "There's a rock in Australia that's bigger than Ayer's Rock Uluru"
+  },
+  {
+    "answer": "False",
+    "explanation": "New Zealand has the steepest residential area in the world",
+    "question": "New Carolina has the steepest residential area in the world"
+  },
+  {
+    "answer": "False",
+    "explanation": "In Hawaii, you can experience sunny beaches and snowy mountains on the same island",
+    "question": "In Texas, you can experience sunny beaches and snowy mountains on the same island"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "The quills on porcupines in Africa are as long as 3 pencils together."
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "Throwing phones is a world championship phenomenon"
+  },
+  {
+    "answer": "True",
+    "explanation": null,
+    "question": "There is a blind spot present in human eyes, also the location where the optic nerve mostly glides through the retina"
+  },
+  {
+    "answer": "False",
+    "explanation": null,
+    "question": "The outer region of the nose is called the pinna"
+  },
+  {
+    "answer": "False",
+    "explanation": null,
+    "question": "Anything that has a certain mass and occupies space is called an atom"
+  }
+]
