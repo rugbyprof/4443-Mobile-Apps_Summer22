@@ -1,4 +1,4 @@
-## Assignment  5 - Your Final Project
+## Assignment  5 - Final Project Proposal
 #### Due: 06-20-2022 (Monday @ 12:30 p.m.)
 
 ## Overview
