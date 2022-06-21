@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "first_name": "Aura",
+    "last_name": "Reyburn",
+    "email": "areyburn0@shutterfly.com",
+    "state": "TX",
+    "latitude": 27.777,
+    "longitude": -97.4632,
+    "truck_color": "Pink",
+    "food_truck_name": null
+  },
+  {
+    "id": 2,
+    "first_name": "Law",
+    "last_name": "Franken",
+    "email": "lfranken1@diigo.com",
+    "state": "TX",
+    "latitude": 29.8744,
+    "longitude": -95.5278,
+    "truck_color": "Purple",
+    "food_truck_name": null
+  },
+  {
+    "id": 3,
+    "first_name": "Orren",
+    "last_name": "Ord",
+    "email": "oord2@go.com",
+    "state": "TX",
+    "latitude": 31.6948,
+    "longitude": -106.3,
+    "truck_color": "Aquamarine",
+    "food_truck_name": null
+  },
+  {
+    "id": 4,
+    "first_name": "Melamie",
+    "last_name": "Bartolomeu",
+    "email": "mbartolomeu3@bluehost.com",
+    "state": "TX",
+    "latitude": 32.4112,
+    "longitude": -95.2899,
+    "truck_color": "Puce",
+    "food_truck_name": null
+  },
+  {
+    "id": 5,
+    "first_name": "Gabie",
+    "last_name": "Holdey",
+    "email": "gholdey4@domainmarket.com",
+    "state": "TX",
+    "latitude": 32.69,
+    "longitude": -96.9177,
+    "truck_color": "Pink",
+    "food_truck_name": null
+  },
+  {
+    "id": 6,
+    "first_name": "Daryn",
+    "last_name": "Gadman",
+    "email": "dgadman5@dot.gov",
+    "state": "TX",
+    "latitude": 32.7673,
+    "longitude": -96.7776,
+    "truck_color": "Pink",
+    "food_truck_name": null
+  },
+  {
+    "id": 7,
+    "first_name": "Diane",
+    "last_name": "Rhoddie",
+    "email": "drhoddie6@globo.com",
+    "state": "TX",
+    "latitude": 33.0277,
+    "longitude": -96.6777,
+    "truck_color": "Mauv",
+    "food_truck_name": null
+  },
+  {
+    "id": 8,
+    "first_name": "Lainey",
+    "last_name": "Gillbee",
+    "email": "lgillbee7@photobucket.com",
+    "state": "TX",
+    "latitude": 31.6948,
+    "longitude": -106.3,
+    "truck_color": "Crimson",
+    "food_truck_name": null
+  },
+  {
+    "id": 9,
+    "first_name": "Aggi",
+    "last_name": "Floyde",
+    "email": "afloyde8@51.la",
+    "state": "TX",
+    "latitude": 29.6297,
+    "longitude": -95.4382,
+    "truck_color": "Teal",
+    "food_truck_name": null
+  },
+  {
+    "id": 10,
+    "first_name": "Grady",
+    "last_name": "Tye",
+    "email": "gtye9@ovh.net",
+    "state": "TX",
+    "latitude": 31.6948,
+    "longitude": -106.3,
+    "truck_color": "Teal",
+    "food_truck_name": null
+  },
+  {
+    "id": 11,
+    "first_name": "Kalina",
+    "last_name": "Spurnier",
+    "email": "kspurniera@elegantthemes.com",
+    "state": "TX",
+    "latitude": 29.5054,
+    "longitude": -98.6688,
+    "truck_color": "Turquoise",
+    "food_truck_name": null
+  },
+  {
+    "id": 12,
+    "first_name": "Vidovic",
+    "last_name": "Duchart",
+    "email": "vduchartb@tinyurl.com",
+    "state": "TX",
+    "latitude": 35.1885,
+    "longitude": -101.8165,
+    "truck_color": "Goldenrod",
+    "food_truck_name": null
+  },
+  {
+    "id": 13,
+    "first_name": "Gideon",
+    "last_name": "Toffts",
+    "email": "gtofftsc@weibo.com",
+    "state": "TX",
+    "latitude": 32.7673,
+    "longitude": -96.7776,
+    "truck_color": "Red",
+    "food_truck_name": null
+  },
+  {
+    "id": 14,
+    "first_name": "Josh",
+    "last_name": "Dillintone",
+    "email": "jdillintoned@woothemes.com",
+    "state": "TX",
+    "latitude": 32.7233,
+    "longitude": -97.269,
+    "truck_color": "Yellow",
+    "food_truck_name": null
+  },
+  {
+    "id": 15,
+    "first_name": "Ariel",
+    "last_name": "Dryden",
+    "email": "adrydene@yahoo.com",
+    "state": "TX",
+    "latitude": 30.0167,
+    "longitude": -95.447,
+    "truck_color": "Crimson",
+    "food_truck_name": null
+  },
+  {
+    "id": 16,
+    "first_name": "Leticia",
+    "last_name": "Harring",
+    "email": "lharringf@opera.com",
+    "state": "TX",
+    "latitude": 32.5547,
+    "longitude": -94.7767,
+    "truck_color": "Mauv",
+    "food_truck_name": null
+  },
+  {
+    "id": 17,
+    "first_name": "Mort",
+    "last_name": "Wylam",
+    "email": "mwylamg@seattletimes.com",
+    "state": "TX",
+    "latitude": 29.4189,
+    "longitude": -98.6895,
+    "truck_color": "Aquamarine",
+    "food_truck_name": null
+  },
+  {
+    "id": 18,
+    "first_name": "Loree",
+    "last_name": "Androletti",
+    "email": "landrolettih@state.tx.us",
+    "state": "TX",
+    "latitude": 30.3264,
+    "longitude": -97.7713,
+    "truck_color": "Pink",
+    "food_truck_name": null
+  },
+  {
+    "id": 19,
+    "first_name": "Shanna",
+    "last_name": "Scandwright",
+    "email": "sscandwrighti@google.com.br",
+    "state": "TX",
+    "latitude": 29.5054,
+    "longitude": -98.6688,
+    "truck_color": "Violet",
+    "food_truck_name": null
+  },
+  {
+    "id": 20,
+    "first_name": "Alastair",
+    "last_name": "Audenis",
+    "email": "aaudenisj@acquirethisname.com",
+    "state": "TX",
+    "latitude": 27.777,
+    "longitude": -97.4632,
+    "truck_color": "Yellow",
+    "food_truck_name": null
+  }
+]

@@ -28,6 +28,4 @@
 
 - Create a folder in your assignments folder called `P01`
 - Upload all files dealing with your flutter project in this folder to github.
-- Be prepared to talk about your completed project Jun 29<sup>th</sup> or Jun 30<sup>th</sup> in front of the class.
-
-
+- Be prepared to talk about your completed project Jun 29<sup>th</sup> or Jun 30<sup>th</sup> in front of the class, while showing that your project runs correctly.
