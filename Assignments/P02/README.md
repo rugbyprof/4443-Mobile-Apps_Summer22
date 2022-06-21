@@ -10,25 +10,14 @@ Using the "Flash Chat" completed project: https://github.com/londonappbrewery/Fl
 
 I mentioned that we would use **MongoDB** as a backend for this app, but we will continue with **FireBase** so that we can get this project done by Friday. 
 
-### Screens
+- **Welcom Screen**
+  - Create your own "splash" screen using something other than the "Flash Chat" images, animations, and color scheme. In addition you need to create your own **app icon** for this project. 
 
-- Welcome
-- Register
-- Login
-- Truck Locations
+- **Register and Login Screens**
+  - Keep exactly the same layout if you like, just change the color scheme.
 
-
-#### Welcom Screen
-
-Create your own "splash" screen using something other than the "Flash Chat" images, animations, and color scheme. In addition you need to create your own **app icon** for this project. 
-
-#### Register and Login Screens
-
-Keep exactly the same layout if you like, just change the color scheme.
-
-#### Truck Locations Screen
-
-Discussed more below
+- **Truck Locations Screen**
+  - Discussed more below in the Google Maps section
 
 <img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/truck_locations.png" width="200">
 
@@ -37,6 +26,23 @@ Discussed more below
 - Create an API key: https://developers.google.com/maps/documentation/javascript/get-api-key
 - Then incorporate a maps page similar to this tutorial: https://codelabs.developers.google.com/codelabs/google-maps-in-flutter#0
 - Use custom map icons: https://mapicons.mapsmarker.com/markers/restaurants-bars/take-away/food-truck/?custom_color=bf2ea2
+
+The google maps tutorial used a file that contained a list of json object similar to: 
+
+```json
+    {
+      "address": "Aabogade 15\n8200 Aarhus\nDenmark",
+      "id": "aarhus",
+      "image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+      "lat": 56.172249,
+      "lng": 10.187372,
+      "name": "Aarhus",
+      "phone": "",
+      "region": "europe"
+    },
+```
+
+Then added a `locations.dart` file that contained multiple classes to handle the specific json data. This is where I think most of your work will be needed to adapt each of the classes to our specific json fields.
 
 ### Discussion:
 
