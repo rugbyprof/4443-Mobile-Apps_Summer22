@@ -44,6 +44,13 @@ Discussed more below
 TBD
 
 
+### Files in P02
+
+- [combined_truck_data.json](combined_truck_data.json) => the location data you need for this project
+- [fix_data.py](fix_data.py) => code I used to combine two json files
+- [truck_data.json](truck_data.json) => food truck info
+- [truck_locations.json](truck_locations.json) => possible locations for food trucks
+
 ### Deliverables
 
 
