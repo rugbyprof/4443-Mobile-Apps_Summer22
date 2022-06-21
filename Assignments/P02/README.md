@@ -16,6 +16,7 @@ I mentioned that we would use **MongoDB** as a backend for this app, but we will
 - **Register and Login Screens**
   - Keep exactly the same layout if you like, just change the color scheme.
 
+
 - **Truck Locations Screen**
   - Discussed more below in the Google Maps section
 
@@ -46,8 +47,16 @@ Then added a `locations.dart` file that contained multiple classes to handle the
 
 ### Discussion:
 
+#### Griffin Lookup
+- zoom level
+- center map
+- map view (layer)
+- lookup bottom icon (personal location)
+- custom icons
+  - click => new page (truck data)
+  - popup => on click or hover
+- authentication in firebase
 
-TBD
 
 
 ### Files in P02

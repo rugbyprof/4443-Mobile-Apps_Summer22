@@ -9,6 +9,6 @@
 | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/A04">A04</a>~ | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/A04"> Assignment  5 </a>~ | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/A04"> Final Project Proposal</a>~ | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/A04"> 06-20-2022 (Monday @ 12:30 p.m.)</a>~ | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/A04">2022-06-20 00:00:00</a>~ | ---- |
 | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/P01">P01</a>~ | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/P01"> Program  1 </a>~ | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/P01"> Quizzler w/ FastApi</a>~ | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/P01"> 06-15-2022 (Wednesday @ 12:30 p.m.)</a>~ | ~<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Assignments/P01">2022-06-15 00:00:00</a>~ | ---- |
 
-<sup>Last Updated: 2022-06-21 (Tue @ 13:59)</sup> 
+<sup>Last Updated: 2022-06-21 (Tue @ 16:36)</sup> 
 
 <sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup> 
