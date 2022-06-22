@@ -10,6 +10,6 @@
 | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/05-PythonFirebase">05-PythonFirebase</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/05-PythonFirebase"> Placeholder Readme </a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/05-PythonFirebase"> No Description</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/05-PythonFirebase">N/A</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/05-PythonFirebase">None</a>*** |  |
 | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/apitest">apitest</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/apitest">None</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/apitest">None</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/apitest">N/A</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/apitest">None</a>*** |  |
 
-<sup>Last Updated: 2022-06-22 (Wed @ 17:08)</sup> 
+<sup>Last Updated: 2022-06-22 (Wed @ 17:17)</sup> 
 
 <sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup> 

@@ -8,7 +8,7 @@ from firebase_admin import firestore
 import timeit
 
 # Use a service account
-cred = credentials.Certificate('api-key.json')
+cred = credentials.Certificate('~/api-key.json')
 firebase_admin.initialize_app(cred)
 
 db = firestore.client()
@@ -154,11 +154,6 @@ if __name__ == '__main__':
     argv = sys.argv[1:]
 
     args, k = mykwargs(argv)
-
-    # Initialize instance variables
-    file = sys.argv[1:][0]
-    method = sys.argv[1:][1]
-    collectionName = sys.argv[1:][2]
 
     uploadjson = UploadJsonFileToFirestore(k['file'], k['method'],
                                            k['collectionName'])
