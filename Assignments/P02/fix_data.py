@@ -75,6 +75,7 @@ if __name__ == '__main__':
 
     simpleList = []
     nestedList = []
+    locations = []
 
     # "city": "Wichita Falls",
     # "email": "areyburn0@shutterfly.com",
@@ -127,6 +128,11 @@ if __name__ == '__main__':
         nested.update(simple)
 
         nested['location'] = {'lat': simple['lat'], 'lng': simple['lng']}
+        locations.append({
+            'id': simple['id'],
+            'lat': simple['lat'],
+            'lng': simple['lng']
+        })
 
         del nested['lat']
         del nested['lng']
@@ -143,3 +149,5 @@ if __name__ == '__main__':
 
     with open("truck_data_combined_nested.json", "w") as f:
         json.dump(nestedList, f, indent=2, sort_keys=True)
+
+    print(locations)

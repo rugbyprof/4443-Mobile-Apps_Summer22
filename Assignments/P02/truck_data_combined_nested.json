@@ -6,17 +6,17 @@
     },
     "email": "areyburn0@shutterfly.com",
     "first_name": "Aura",
-    "food_type": "Bistro",
+    "food_type": "Sushi",
     "id": 1,
     "last_name": "Reyburn",
     "location": {
-      "lat": 33.913858,
-      "lng": -98.490576
+      "lat": 33.962903,
+      "lng": -98.514447
     },
-    "phone": "(940) 631-2456",
+    "phone": "(940) 632-2662",
     "truck_color": "Pink",
-    "truck_name": "Cheddar Chariot",
-    "url": "https://cheddar-chariot.biz"
+    "truck_name": "Cruisin' Cuisine",
+    "url": "https://cruisin-cuisine.food"
   },
   {
     "address": {
@@ -25,17 +25,17 @@
     },
     "email": "lfranken1@diigo.com",
     "first_name": "Law",
-    "food_type": "BBQ",
+    "food_type": "American",
     "id": 2,
     "last_name": "Franken",
     "location": {
-      "lat": 33.890323,
-      "lng": -98.483613
+      "lat": 33.913939,
+      "lng": -98.490468
     },
-    "phone": "(940) 235-1659",
+    "phone": "(940) 235-5237",
     "truck_color": "Purple",
-    "truck_name": "The Food Dude",
-    "url": "https://the-food-dude.net"
+    "truck_name": "Hot Potatoes",
+    "url": "https://hot-potatoes.net"
   },
   {
     "address": {
@@ -44,17 +44,17 @@
     },
     "email": "oord2@go.com",
     "first_name": "Orren",
-    "food_type": "American",
+    "food_type": "Mexican",
     "id": 3,
     "last_name": "Ord",
     "location": {
-      "lat": 33.871199,
-      "lng": -98.560367
+      "lat": 33.913858,
+      "lng": -98.490576
     },
-    "phone": "(940) 636-5552",
+    "phone": "(940) 636-6327",
     "truck_color": "Aquamarine",
-    "truck_name": "Sir Burger",
-    "url": "https://sir-burger.biz"
+    "truck_name": "Chicky Chimichanga",
+    "url": "https://chicky-chimichanga.food"
   },
   {
     "address": {
@@ -63,17 +63,17 @@
     },
     "email": "mbartolomeu3@bluehost.com",
     "first_name": "Melamie",
-    "food_type": "Bistro",
+    "food_type": "Italian",
     "id": 4,
     "last_name": "Bartolomeu",
     "location": {
-      "lat": 33.878504,
-      "lng": -98.544917
+      "lat": 33.8853,
+      "lng": -98.525106
     },
-    "phone": "(940) 631-7831",
+    "phone": "(940) 632-7860",
     "truck_color": "Puce",
-    "truck_name": "The Clamshell",
-    "url": "https://the-clamshell.food"
+    "truck_name": "The Pasta Parade",
+    "url": "https://the-pasta-parade.com"
   },
   {
     "address": {
@@ -82,17 +82,17 @@
     },
     "email": "gholdey4@domainmarket.com",
     "first_name": "Gabie",
-    "food_type": "Pizza",
+    "food_type": "American",
     "id": 5,
     "last_name": "Holdey",
     "location": {
-      "lat": 33.913939,
-      "lng": -98.490468
+      "lat": 33.982122,
+      "lng": -98.536248
     },
-    "phone": "(940) 631-5987",
+    "phone": "(940) 882-7778",
     "truck_color": "Pink",
-    "truck_name": "Pete's Pizza Mobile",
-    "url": "https://petes-pizza-mobile.us"
+    "truck_name": "Sir Burger",
+    "url": "https://sir-burger.com"
   },
   {
     "address": {
@@ -101,17 +101,17 @@
     },
     "email": "dgadman5@dot.gov",
     "first_name": "Daryn",
-    "food_type": "American",
+    "food_type": "Breakfast",
     "id": 6,
     "last_name": "Gadman",
     "location": {
-      "lat": 33.964683,
-      "lng": -98.51316
+      "lat": 33.877052,
+      "lng": -98.488706
     },
-    "phone": "(940) 235-1296",
+    "phone": "(940) 235-9422",
     "truck_color": "Pink",
-    "truck_name": "Hungry Henry's Burger Bus",
-    "url": "https://hungry-henrys-burger-bus.com"
+    "truck_name": "The Bun Bus",
+    "url": "https://the-bun-bus.us"
   },
   {
     "address": {
@@ -120,17 +120,17 @@
     },
     "email": "drhoddie6@globo.com",
     "first_name": "Diane",
-    "food_type": "SeaFood",
+    "food_type": "Pizza",
     "id": 7,
     "last_name": "Rhoddie",
     "location": {
-      "lat": 33.982122,
-      "lng": -98.536248
+      "lat": 33.852976,
+      "lng": -98.496868
     },
-    "phone": "(940) 882-9935",
+    "phone": "(940) 631-5734",
     "truck_color": "Mauv",
-    "truck_name": "The Rock Lobster",
-    "url": "https://the-rock-lobster.biz"
+    "truck_name": "Taste of Chicago",
+    "url": "https://taste-of-chicago.food"
   },
   {
     "address": {
@@ -143,13 +143,13 @@
     "id": 8,
     "last_name": "Gillbee",
     "location": {
-      "lat": 33.858469,
-      "lng": -98.535637
+      "lat": 33.871199,
+      "lng": -98.560367
     },
-    "phone": "(940) 235-2145",
+    "phone": "(940) 235-8874",
     "truck_color": "Crimson",
-    "truck_name": "The Lunch Truck",
-    "url": "https://the-lunch-truck.biz"
+    "truck_name": "Boxtruck Takeout",
+    "url": "https://boxtruck-takeout.us"
   },
   {
     "address": {
@@ -158,17 +158,17 @@
     },
     "email": "afloyde8@51.la",
     "first_name": "Aggi",
-    "food_type": "Mexican",
+    "food_type": "American",
     "id": 9,
     "last_name": "Floyde",
     "location": {
-      "lat": 33.871364,
-      "lng": -98.539113
+      "lat": 33.890323,
+      "lng": -98.483613
     },
-    "phone": "(940) 631-4189",
+    "phone": "(940) 632-8201",
     "truck_color": "Teal",
-    "truck_name": "The Tasty Taquito",
-    "url": "https://the-tasty-taquito.biz"
+    "truck_name": "Burger Bus",
+    "url": "https://burger-bus.com"
   },
   {
     "address": {
@@ -177,17 +177,17 @@
     },
     "email": "gtye9@ovh.net",
     "first_name": "Grady",
-    "food_type": "SeaFood",
+    "food_type": "Mexican",
     "id": 10,
     "last_name": "Tye",
     "location": {
-      "lat": 33.852976,
-      "lng": -98.496868
+      "lat": 33.964683,
+      "lng": -98.51316
     },
-    "phone": "(940) 235-6544",
+    "phone": "(940) 882-1964",
     "truck_color": "Teal",
-    "truck_name": "The Rock Lobster",
-    "url": "https://the-rock-lobster.food"
+    "truck_name": "Taco Trailer",
+    "url": "https://taco-trailer.com"
   },
   {
     "address": {
@@ -196,17 +196,17 @@
     },
     "email": "kspurniera@elegantthemes.com",
     "first_name": "Kalina",
-    "food_type": "SeaFood",
+    "food_type": "BBQ",
     "id": 11,
     "last_name": "Spurnier",
     "location": {
-      "lat": 33.870077,
-      "lng": -98.518095
+      "lat": 33.871199,
+      "lng": -98.546333
     },
-    "phone": "(940) 631-7157",
+    "phone": "(940) 235-3697",
     "truck_color": "Turquoise",
-    "truck_name": "Gulf Coast Seafood",
-    "url": "https://gulf-coast-seafood.us"
+    "truck_name": "The Mouthful",
+    "url": "https://the-mouthful.com"
   },
   {
     "address": {
@@ -215,17 +215,17 @@
     },
     "email": "vduchartb@tinyurl.com",
     "first_name": "Vidovic",
-    "food_type": "American",
+    "food_type": "Dream Doughnuts",
     "id": 12,
     "last_name": "Duchart",
     "location": {
-      "lat": 33.8853,
-      "lng": -98.525106
+      "lat": 33.878504,
+      "lng": -98.544917
     },
-    "phone": "(940) 882-2878",
+    "phone": "(940) 632-8771",
     "truck_color": "Goldenrod",
-    "truck_name": "Rex Fries",
-    "url": "https://rex-fries.food"
+    "truck_name": "Fanny's Fried and Ready",
+    "url": "https://fannys-fried-and-ready.biz"
   },
   {
     "address": {
@@ -234,17 +234,17 @@
     },
     "email": "gtofftsc@weibo.com",
     "first_name": "Gideon",
-    "food_type": "Korean BBQ",
+    "food_type": "American",
     "id": 13,
     "last_name": "Toffts",
     "location": {
       "lat": 33.87022,
       "lng": -98.533437
     },
-    "phone": "(940) 631-4285",
+    "phone": "(940) 636-9160",
     "truck_color": "Red",
-    "truck_name": "Highway Heartburn",
-    "url": "https://highway-heartburn.com"
+    "truck_name": "Rex Fries",
+    "url": "https://rex-fries.com"
   },
   {
     "address": {
@@ -253,17 +253,17 @@
     },
     "email": "jdillintoned@woothemes.com",
     "first_name": "Josh",
-    "food_type": "SeaFood",
+    "food_type": "American",
     "id": 14,
     "last_name": "Dillintone",
     "location": {
-      "lat": 33.962903,
-      "lng": -98.514447
+      "lat": 33.913778,
+      "lng": -98.493247
     },
-    "phone": "(940) 631-4564",
+    "phone": "(940) 631-3745",
     "truck_color": "Yellow",
-    "truck_name": "Gulf Coast Seafood",
-    "url": "https://gulf-coast-seafood.com"
+    "truck_name": "Smiles 4 Miles Fried Foods",
+    "url": "https://smiles-4-miles-fried-foods.us"
   },
   {
     "address": {
@@ -272,17 +272,17 @@
     },
     "email": "adrydene@yahoo.com",
     "first_name": "Ariel",
-    "food_type": "Mexican",
+    "food_type": "BBQ",
     "id": 15,
     "last_name": "Dryden",
     "location": {
-      "lat": 33.91271,
-      "lng": -98.490554
+      "lat": 33.870077,
+      "lng": -98.518095
     },
-    "phone": "(940) 882-5038",
+    "phone": "(940) 636-3654",
     "truck_color": "Crimson",
-    "truck_name": "The Tasty Taquito",
-    "url": "https://the-tasty-taquito.net"
+    "truck_name": "The Food Dude",
+    "url": "https://the-food-dude.com"
   },
   {
     "address": {
@@ -291,17 +291,17 @@
     },
     "email": "lharringf@opera.com",
     "first_name": "Leticia",
-    "food_type": "Breakfast",
+    "food_type": "American",
     "id": 16,
     "last_name": "Harring",
     "location": {
-      "lat": 33.871199,
-      "lng": -98.546333
+      "lat": 33.91271,
+      "lng": -98.490554
     },
-    "phone": "(940) 235-8004",
+    "phone": "(940) 632-1454",
     "truck_color": "Mauv",
-    "truck_name": "The Bun Bus",
-    "url": "https://the-bun-bus.biz"
+    "truck_name": "Jumping Jack's Burgers",
+    "url": "https://jumping-jacks-burgers.com"
   },
   {
     "address": {
@@ -310,17 +310,17 @@
     },
     "email": "mwylamg@seattletimes.com",
     "first_name": "Mort",
-    "food_type": "American",
+    "food_type": "Sushi",
     "id": 17,
     "last_name": "Wylam",
     "location": {
-      "lat": 33.913778,
-      "lng": -98.493247
+      "lat": 33.914019,
+      "lng": -98.490565
     },
-    "phone": "(940) 636-2097",
+    "phone": "(940) 631-6052",
     "truck_color": "Aquamarine",
-    "truck_name": "Sir Burger",
-    "url": "https://sir-burger.com"
+    "truck_name": "Cruisin' Cuisine",
+    "url": "https://cruisin-cuisine.us"
   },
   {
     "address": {
@@ -329,17 +329,17 @@
     },
     "email": "landrolettih@state.tx.us",
     "first_name": "Loree",
-    "food_type": "Breakfast",
+    "food_type": "Cajun",
     "id": 18,
     "last_name": "Androletti",
     "location": {
-      "lat": 33.888956,
-      "lng": -98.527858
+      "lat": 33.871364,
+      "lng": -98.539113
     },
-    "phone": "(940) 632-6037",
+    "phone": "(940) 631-9971",
     "truck_color": "Pink",
-    "truck_name": "Bacon Buggy",
-    "url": "https://bacon-buggy.biz"
+    "truck_name": "Alligatah",
+    "url": "https://alligatah.com"
   },
   {
     "address": {
@@ -348,17 +348,17 @@
     },
     "email": "sscandwrighti@google.com.br",
     "first_name": "Shanna",
-    "food_type": "American",
+    "food_type": "Breakfast",
     "id": 19,
     "last_name": "Scandwright",
     "location": {
-      "lat": 33.914019,
-      "lng": -98.490565
+      "lat": 33.888956,
+      "lng": -98.527858
     },
-    "phone": "(940) 632-6638",
+    "phone": "(940) 636-4327",
     "truck_color": "Violet",
-    "truck_name": "Jumping Jack's Burgers",
-    "url": "https://jumping-jacks-burgers.net"
+    "truck_name": "Bacon Buggy",
+    "url": "https://bacon-buggy.net"
   },
   {
     "address": {
@@ -367,16 +367,16 @@
     },
     "email": "aaudenisj@acquirethisname.com",
     "first_name": "Alastair",
-    "food_type": "Mexican",
+    "food_type": "American",
     "id": 20,
     "last_name": "Audenis",
     "location": {
-      "lat": 33.877052,
-      "lng": -98.488706
+      "lat": 33.858469,
+      "lng": -98.535637
     },
-    "phone": "(940) 631-2174",
+    "phone": "(940) 235-4570",
     "truck_color": "Yellow",
-    "truck_name": "The Tasty Taquito",
-    "url": "https://the-tasty-taquito.net"
+    "truck_name": "Hot Potatoes",
+    "url": "https://hot-potatoes.food"
   }
 ]
