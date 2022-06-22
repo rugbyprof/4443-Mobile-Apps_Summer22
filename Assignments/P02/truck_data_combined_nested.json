@@ -1,0 +1,382 @@
+[
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "areyburn0@shutterfly.com",
+    "first_name": "Aura",
+    "food_type": "Bistro",
+    "id": 1,
+    "last_name": "Reyburn",
+    "location": {
+      "lat": 33.913858,
+      "lng": -98.490576
+    },
+    "phone": "(940) 631-2456",
+    "truck_color": "Pink",
+    "truck_name": "Cheddar Chariot",
+    "url": "https://cheddar-chariot.biz"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "lfranken1@diigo.com",
+    "first_name": "Law",
+    "food_type": "BBQ",
+    "id": 2,
+    "last_name": "Franken",
+    "location": {
+      "lat": 33.890323,
+      "lng": -98.483613
+    },
+    "phone": "(940) 235-1659",
+    "truck_color": "Purple",
+    "truck_name": "The Food Dude",
+    "url": "https://the-food-dude.net"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "oord2@go.com",
+    "first_name": "Orren",
+    "food_type": "American",
+    "id": 3,
+    "last_name": "Ord",
+    "location": {
+      "lat": 33.871199,
+      "lng": -98.560367
+    },
+    "phone": "(940) 636-5552",
+    "truck_color": "Aquamarine",
+    "truck_name": "Sir Burger",
+    "url": "https://sir-burger.biz"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "mbartolomeu3@bluehost.com",
+    "first_name": "Melamie",
+    "food_type": "Bistro",
+    "id": 4,
+    "last_name": "Bartolomeu",
+    "location": {
+      "lat": 33.878504,
+      "lng": -98.544917
+    },
+    "phone": "(940) 631-7831",
+    "truck_color": "Puce",
+    "truck_name": "The Clamshell",
+    "url": "https://the-clamshell.food"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "gholdey4@domainmarket.com",
+    "first_name": "Gabie",
+    "food_type": "Pizza",
+    "id": 5,
+    "last_name": "Holdey",
+    "location": {
+      "lat": 33.913939,
+      "lng": -98.490468
+    },
+    "phone": "(940) 631-5987",
+    "truck_color": "Pink",
+    "truck_name": "Pete's Pizza Mobile",
+    "url": "https://petes-pizza-mobile.us"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "dgadman5@dot.gov",
+    "first_name": "Daryn",
+    "food_type": "American",
+    "id": 6,
+    "last_name": "Gadman",
+    "location": {
+      "lat": 33.964683,
+      "lng": -98.51316
+    },
+    "phone": "(940) 235-1296",
+    "truck_color": "Pink",
+    "truck_name": "Hungry Henry's Burger Bus",
+    "url": "https://hungry-henrys-burger-bus.com"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "drhoddie6@globo.com",
+    "first_name": "Diane",
+    "food_type": "SeaFood",
+    "id": 7,
+    "last_name": "Rhoddie",
+    "location": {
+      "lat": 33.982122,
+      "lng": -98.536248
+    },
+    "phone": "(940) 882-9935",
+    "truck_color": "Mauv",
+    "truck_name": "The Rock Lobster",
+    "url": "https://the-rock-lobster.biz"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "lgillbee7@photobucket.com",
+    "first_name": "Lainey",
+    "food_type": "American",
+    "id": 8,
+    "last_name": "Gillbee",
+    "location": {
+      "lat": 33.858469,
+      "lng": -98.535637
+    },
+    "phone": "(940) 235-2145",
+    "truck_color": "Crimson",
+    "truck_name": "The Lunch Truck",
+    "url": "https://the-lunch-truck.biz"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "afloyde8@51.la",
+    "first_name": "Aggi",
+    "food_type": "Mexican",
+    "id": 9,
+    "last_name": "Floyde",
+    "location": {
+      "lat": 33.871364,
+      "lng": -98.539113
+    },
+    "phone": "(940) 631-4189",
+    "truck_color": "Teal",
+    "truck_name": "The Tasty Taquito",
+    "url": "https://the-tasty-taquito.biz"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "gtye9@ovh.net",
+    "first_name": "Grady",
+    "food_type": "SeaFood",
+    "id": 10,
+    "last_name": "Tye",
+    "location": {
+      "lat": 33.852976,
+      "lng": -98.496868
+    },
+    "phone": "(940) 235-6544",
+    "truck_color": "Teal",
+    "truck_name": "The Rock Lobster",
+    "url": "https://the-rock-lobster.food"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "kspurniera@elegantthemes.com",
+    "first_name": "Kalina",
+    "food_type": "SeaFood",
+    "id": 11,
+    "last_name": "Spurnier",
+    "location": {
+      "lat": 33.870077,
+      "lng": -98.518095
+    },
+    "phone": "(940) 631-7157",
+    "truck_color": "Turquoise",
+    "truck_name": "Gulf Coast Seafood",
+    "url": "https://gulf-coast-seafood.us"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "vduchartb@tinyurl.com",
+    "first_name": "Vidovic",
+    "food_type": "American",
+    "id": 12,
+    "last_name": "Duchart",
+    "location": {
+      "lat": 33.8853,
+      "lng": -98.525106
+    },
+    "phone": "(940) 882-2878",
+    "truck_color": "Goldenrod",
+    "truck_name": "Rex Fries",
+    "url": "https://rex-fries.food"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "gtofftsc@weibo.com",
+    "first_name": "Gideon",
+    "food_type": "Korean BBQ",
+    "id": 13,
+    "last_name": "Toffts",
+    "location": {
+      "lat": 33.87022,
+      "lng": -98.533437
+    },
+    "phone": "(940) 631-4285",
+    "truck_color": "Red",
+    "truck_name": "Highway Heartburn",
+    "url": "https://highway-heartburn.com"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "jdillintoned@woothemes.com",
+    "first_name": "Josh",
+    "food_type": "SeaFood",
+    "id": 14,
+    "last_name": "Dillintone",
+    "location": {
+      "lat": 33.962903,
+      "lng": -98.514447
+    },
+    "phone": "(940) 631-4564",
+    "truck_color": "Yellow",
+    "truck_name": "Gulf Coast Seafood",
+    "url": "https://gulf-coast-seafood.com"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "adrydene@yahoo.com",
+    "first_name": "Ariel",
+    "food_type": "Mexican",
+    "id": 15,
+    "last_name": "Dryden",
+    "location": {
+      "lat": 33.91271,
+      "lng": -98.490554
+    },
+    "phone": "(940) 882-5038",
+    "truck_color": "Crimson",
+    "truck_name": "The Tasty Taquito",
+    "url": "https://the-tasty-taquito.net"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "lharringf@opera.com",
+    "first_name": "Leticia",
+    "food_type": "Breakfast",
+    "id": 16,
+    "last_name": "Harring",
+    "location": {
+      "lat": 33.871199,
+      "lng": -98.546333
+    },
+    "phone": "(940) 235-8004",
+    "truck_color": "Mauv",
+    "truck_name": "The Bun Bus",
+    "url": "https://the-bun-bus.biz"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "mwylamg@seattletimes.com",
+    "first_name": "Mort",
+    "food_type": "American",
+    "id": 17,
+    "last_name": "Wylam",
+    "location": {
+      "lat": 33.913778,
+      "lng": -98.493247
+    },
+    "phone": "(940) 636-2097",
+    "truck_color": "Aquamarine",
+    "truck_name": "Sir Burger",
+    "url": "https://sir-burger.com"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "landrolettih@state.tx.us",
+    "first_name": "Loree",
+    "food_type": "Breakfast",
+    "id": 18,
+    "last_name": "Androletti",
+    "location": {
+      "lat": 33.888956,
+      "lng": -98.527858
+    },
+    "phone": "(940) 632-6037",
+    "truck_color": "Pink",
+    "truck_name": "Bacon Buggy",
+    "url": "https://bacon-buggy.biz"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "sscandwrighti@google.com.br",
+    "first_name": "Shanna",
+    "food_type": "American",
+    "id": 19,
+    "last_name": "Scandwright",
+    "location": {
+      "lat": 33.914019,
+      "lng": -98.490565
+    },
+    "phone": "(940) 632-6638",
+    "truck_color": "Violet",
+    "truck_name": "Jumping Jack's Burgers",
+    "url": "https://jumping-jacks-burgers.net"
+  },
+  {
+    "address": {
+      "city": "Wichita Falls",
+      "state": "TX"
+    },
+    "email": "aaudenisj@acquirethisname.com",
+    "first_name": "Alastair",
+    "food_type": "Mexican",
+    "id": 20,
+    "last_name": "Audenis",
+    "location": {
+      "lat": 33.877052,
+      "lng": -98.488706
+    },
+    "phone": "(940) 631-2174",
+    "truck_color": "Yellow",
+    "truck_name": "The Tasty Taquito",
+    "url": "https://the-tasty-taquito.net"
+  }
+]

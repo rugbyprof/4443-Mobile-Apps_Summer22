@@ -9,6 +9,6 @@
 | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/04-Dicee_Flutter_Completed">04-Dicee_Flutter_Completed</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/04-Dicee_Flutter_Completed">None</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/04-Dicee_Flutter_Completed">None</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/04-Dicee_Flutter_Completed"> Dicee 🎲</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/04-Dicee_Flutter_Completed">None</a>*** |  |
 | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/apitest">apitest</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/apitest">None</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/apitest">None</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/apitest">N/A</a>*** | ***<a href="https://github.com/rugbyprof/4443-Mobile-Apps_Summer22/tree/master/Resources/apitest">None</a>*** |  |
 
-<sup>Last Updated: 2022-06-21 (Tue @ 16:38)</sup> 
+<sup>Last Updated: 2022-06-21 (Tue @ 19:41)</sup> 
 
 <sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup> 
